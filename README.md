@@ -1,7 +1,11 @@
 ### Hi there 👋
 
+![Hansol's GitHub stats](https://github-readme-stats.vercel.app/api?username=jhsol24&show_icons=true&theme=dark)   
+
 [![Solved.ac
 Profile](http://mazassumnida.wtf/api/generate_badge?boj=jhsol24)](https://solved.ac/jhsol24)
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjhsol24&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 <!--
 **jhsol24/jhsol24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
